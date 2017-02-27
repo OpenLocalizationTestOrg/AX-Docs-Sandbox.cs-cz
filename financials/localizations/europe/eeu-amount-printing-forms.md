@@ -1,23 +1,25 @@
 ---
-title: Update how amounts are displayed on reports and documents | Microsoft Docs
+title: Update how amounts are displayed on reports and documents
 description: This topic provides information about how to update how amounts are displayed on reports and other documents for Estonia, Latvia, Lithuania, Poland, Czech Republic, Hungary, and Russia.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-16 19:53:21
+ms.date: 2016-12-16 19 - 53 - 21
 ms.topic: 
 ms.prod: 
 ms.service: 
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264254
-ms.assetid: 4c711057-a8c4-49dc-b480-6cbb60900908
-ms.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
+ms.assetid: 70b32d8d-6fa7-4617-ba74-a74bc6568d6e
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: e8ce19b33f76885bc0af62471652759da98ad74d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 7daabca37c5ccf9898cf9b22b2c29802483f57ca
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -49,10 +51,5 @@ To set up full and short names for currency units and subunits for a language, c
 
 5.  Click **Save**.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

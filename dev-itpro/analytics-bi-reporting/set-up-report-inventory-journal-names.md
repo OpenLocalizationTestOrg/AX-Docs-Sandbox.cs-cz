@@ -1,24 +1,26 @@
 ---
-title: Inventory journal reports | Microsoft Docs
+title: Inventory journal reports
 description: When you use configurable inventory reports based on electronic reporting, you need to set up a relationship between a specific report and a journal type.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-22 15:24:32
+ms.date: 2016-12-22 15 - 24 - 32
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventJournalName
+ms.search.form: InventJournalName
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations, Core
 ms.custom: 265144
-ms.assetid: 7f67c4f1-5172-4057-9e2d-9c6e83a1e58d
-ms.region: Estonia, Hungary, Latvia, Lithuania, Poland
+ms.assetid: 0f07f62f-1053-46e9-b235-a7b38cbda409
+ms.search.region: Estonia, Hungary, Latvia, Lithuania, Poland
 ms.author: v-lenest
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 41b188a00c9f8ead125981e51c1c3e6a9d9ad80d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 976d29c9fb4da450b3a34af549a00058a9cd984c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -27,7 +29,7 @@ ms.openlocfilehash: 41b188a00c9f8ead125981e51c1c3e6a9d9ad80d
 
 When you use configurable inventory reports based on electronic reporting, you need to set up a relationship between a specific report and a journal type.
 
-To set up a relationship between a specific report and a journal type, on the **Inventory journal names** page (**Inventory management** &gt; **Setup** &gt; **Journal names** &gt; **Inventory**), enter a name for the report. **Note:** To set up supported configurations, download the required electronic reporting configurations. For more information, see [Download Electronic reporting configurations from Lifecycle Services](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/download-electronic-reporting-er-configuration-from-lifecycle-services). Examples of inventory reports with supported configurations in Europe are listed in the following table.
+To set up a relationship between a specific report and a journal type, on the **Inventory journal names** page (**Inventory management** &gt; **Setup** &gt; **Journal names** &gt; **Inventory**), enter a name for the report. **Note:** To set up supported configurations, download the required electronic reporting configurations. For more information, see [Download Electronic reporting configurations from Lifecycle Services](download-electronic-reporting-configuration-lcs.md). Examples of inventory reports with supported configurations in Europe are listed in the following table.
 |                    |                                     |                  |                                         |
 |--------------------|-------------------------------------|------------------|-----------------------------------------|
 | **Country**        | **Report description**              | **Journal type** | **Format mapping name**                 |
@@ -42,10 +44,5 @@ To set up a relationship between a specific report and a journal type, on the **
 | Latvia             | Counting list report                | Counting         | Counting list                           |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

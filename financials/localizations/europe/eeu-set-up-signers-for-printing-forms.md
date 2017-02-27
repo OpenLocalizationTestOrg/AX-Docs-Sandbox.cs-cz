@@ -1,23 +1,25 @@
 ---
-title: Set up signers for print forms | Microsoft Docs
+title: Set up signers for print forms
 description: For legal entities in Czech Republic, Estonia, Hungary, Lithuania, Latvia, Poland, and Russia, you can set up signers and titles for customers and vendors that print documents such as invoices and cash orders.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-14 16:25:05
+ms.date: 2016-12-14 16 - 25 - 05
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 263464
-ms.assetid: c0f548ff-9380-4a2d-9c0a-3267f0654440
-ms.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
+ms.assetid: 7213914a-ecb6-4711-99fe-4e11867aaf4d
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: dcc66b74e8f58bc21933489ad8db9289b24b67b0
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f9383418721a0e47feacd638f2b11ad5ea5784ea
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -159,10 +161,5 @@ The Officials functionality shows the default predefined signers from the Offici
 -   Cash order
 
 **Note:** After a document is posted, officials can't be edited.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

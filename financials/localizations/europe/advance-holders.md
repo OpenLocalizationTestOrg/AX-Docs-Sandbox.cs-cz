@@ -1,23 +1,25 @@
 ---
-title: Advance holders | Microsoft Docs
+title: Advance holders
 description: Learn about advance holder functionality in Microsoft Dynamics 365 for Operations.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-12 21:45:42
+ms.date: 2016-12-12 21 - 45 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 262574
-ms.assetid: 8dc6583d-4ee8-4e22-931a-513301ce177f
-ms.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
+ms.assetid: 87924785-6032-4125-8279-5b1a758f4d80
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f60c4249b2de21446663328d4c3893b8b6f4f7cb
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ca023194a6af25584e1a0b08d5f10ba812b8b33b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -129,11 +131,6 @@ To preview and print a report based on advance holders’ transactions, click **
 <a name="see-also"></a>See also
 --------
 
-[Advance holder transactions](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/advance-holders-transactions)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Advance holder transactions](advance-holders-transactions.md)
 
 

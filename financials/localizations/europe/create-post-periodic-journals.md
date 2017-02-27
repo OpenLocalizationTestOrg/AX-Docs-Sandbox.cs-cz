@@ -1,23 +1,25 @@
 ---
-title: Split periods in periodic journals | Microsoft Docs
+title: Split periods in periodic journals
 description: Periodic journals are sometimes called recurring journals because the amount, text, and other information are repeated each time that the journal is posted. When you create the journal, you specify the period interval for the recurrence, such as days or months. You also specify the number of periods for which the journal will be posted.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-02 21:05:30
+ms.date: 2016-12-02 21 - 05 - 30
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 261354
-ms.assetid: c99cfba1-c1bf-4222-80a1-765fb88670f3
-ms.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland
+ms.assetid: 76c0d7bf-f795-4d42-9a86-a9f36989962c
+ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: bad079eb8c9035a1d47222c9eea5a34af76c53e4
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 7ead7b1a9e31b6700022e8e4664f88fd1b7975c5
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -41,10 +43,5 @@ An insurance company offers your organization a discount for prepaying the insur
 | **Period interval**   | Determine an interval between posting periods.                                                                                                                                                              |
 
 For example, to generate quarterly postings, enter **4** in the **Number of periods** field, select **Months** in the **Unit** field, and enter **3** in the **Period interval** field. The system generates four journal lines, each for one fourth of the journal line amount that you entered, at 3-month intervals. Similar functionality is also available for the general journal. When viewing general journal lines, select **Period journal** &gt; **Save journal**.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

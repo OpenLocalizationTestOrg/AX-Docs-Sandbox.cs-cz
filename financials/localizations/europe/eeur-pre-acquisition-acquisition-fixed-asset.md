@@ -1,23 +1,25 @@
 ---
-title: Post the pre-acquisition of a fixed asset | Microsoft Docs
+title: Post the pre-acquisition of a fixed asset
 description: This topic explains how to set up and post fixed asset pre-acquisitions.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-19 19:43:14
+ms.date: 2016-12-19 19 - 43 - 14
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264704
-ms.assetid: 31084624-dad3-4a82-b95b-49eca87c8af1
-ms.region: Czech Republic, Hungary
+ms.assetid: 89218666-7c5e-45ca-aead-a87853d05928
+ms.search.region: Czech Republic, Hungary
 ms.author: epopov
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 261a2877827e08dd88fbea82ad3425bf2c170bec
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 79252321f41cd14f84ab40df34c6c9eca64374f2
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -46,10 +48,5 @@ Before you can post a pre-acquisition, you must complete the following setup:
 9.  Click **OK** to close the **Pre-acquisition proposal** page.
 10. Click **Post** &gt; **Post** to post the pre-acquisition transaction. On the **Books** page, the status of the fixed asset should now be **Acquired**.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

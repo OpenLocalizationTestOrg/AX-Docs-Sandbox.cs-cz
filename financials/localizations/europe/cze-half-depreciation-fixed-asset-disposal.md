@@ -1,23 +1,25 @@
 ---
-title: Half year depreciation on fixed asset disposal for the Czech Republic | Microsoft Docs
+title: Half year depreciation on fixed asset disposal for the Czech Republic
 description: This topic explains how to set up half-yearly depreciation, so that you can apply half the yearly depreciation for fixed assets that are sold or otherwise disposed of.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-19 16:25:43
+ms.date: 2016-12-19 16 - 25 - 43
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264554
-ms.assetid: e4cfa522-1ebb-4ac9-b8af-d05c92b47afb
-ms.region: Czech Republic
+ms.assetid: 7d9048c0-244a-4513-8f2d-05c63afdfce0
+ms.search.region: Czech Republic
 ms.author: epopov
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: d331960307ba214de4382feac7941aa5065c523d
-ms.openlocfilehash: 37e54e252fb3de713d5cba20a5f6400414054e75
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 76211cc6a86ba715e4ddeb7830150f8e4a6787d2
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -51,10 +53,5 @@ After you set up the depreciation methods, you can apply half the yearly depreci
 9.  Click **OK** to close the **Depreciation proposal** page.
 10. Post the journal.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

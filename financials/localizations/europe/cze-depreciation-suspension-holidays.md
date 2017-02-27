@@ -1,23 +1,25 @@
 ---
-title: Depreciation suspension (holidays) | Microsoft Docs
+title: Depreciation suspension (holidays)
 description: This topic provides information about the suspension, or postponement, of depreciation for the Czech Republic.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-22 14:13:12
+ms.date: 2016-12-22 14 - 13 - 12
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 265124
-ms.assetid: 8db00162-08cd-4f27-98d7-90a7071b8d4d
-ms.region: Czech Republic
+ms.assetid: 638660f3-6a42-4a37-b90c-576feb15e1a4
+ms.search.region: Czech Republic
 ms.author: epopov
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: d331960307ba214de4382feac7941aa5065c523d
-ms.openlocfilehash: 8e6d506daba6a60b3e758ae4e0a0e2a1e37d8089
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 339c7153ba9ba5ffc14629d1897f84d865507b2b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -33,10 +35,5 @@ Depreciation suspension postpones the depreciation that should be calculated for
 -   Accelerated CZ
 
 To suspend fixed asset depreciation, on the **Fixed assets** page, select the fixed asset, and then click **Books** &gt; **Suspension**. On the **Depreciation suspension** page, click **Create new suspension**, and then select the year of suspension. On the **Suspension** page, a new record is created that contains suspension information. To cancel the suspension operation, select the record on the **Suspension** page, and then click **Cancel depreciation suspension**.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

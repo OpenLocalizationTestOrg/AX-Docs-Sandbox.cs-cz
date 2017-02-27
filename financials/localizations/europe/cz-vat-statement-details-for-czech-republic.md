@@ -1,24 +1,26 @@
 ---
-title: VAT statement for the Czech Republic | Microsoft Docs
+title: VAT statement for the Czech Republic
 description: Set up and generate the VAT statement for users in legal entities located in the Czech Republic.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-14 17:39:37
+ms.date: 2016-12-14 17 - 39 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TaxAuthority, TaxReportCollection, TaxReportVoucher, TaxTable
+ms.search.form: TaxAuthority, TaxReportCollection, TaxReportVoucher, TaxTable
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 263614
-ms.assetid: f7dd62d3-038d-4dc7-be50-1e53f926f69c
-ms.region: Czech Republic
+ms.assetid: eef73389-e480-451d-a43d-562429b41742
+ms.search.region: Czech Republic
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-05-2016
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 47e66badd2fc2e5a56eb4cbc3c0b8429d813cb9d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3d96db856c064fac83a3755f3242591c3ae7224c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -27,7 +29,7 @@ ms.openlocfilehash: 47e66badd2fc2e5a56eb4cbc3c0b8429d813cb9d
 
 Set up and generate the VAT statement for users in legal entities located in the Czech Republic.
 
-This topic includes country-specific information about VAT statement setup for users in legal entities in the Czech Republic. For more information about general VAT reporting, see [VAT reporting](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/eu-vat-reporting).
+This topic includes country-specific information about VAT statement setup for users in legal entities in the Czech Republic. For more information about general VAT reporting, see [VAT reporting](eu-vat-reporting.md).
 
 ## <a name="set-up-sales-tax-authorities"></a>Set up sales tax authorities
 To generate a VAT declaration in the required format for the specific tax authority, you must set up the report layout for the sales tax authorities.
@@ -139,14 +141,9 @@ For users in legal entities in the Czech Republic, according VAT declaration in 
 | 8151                         | ř.815 - Dodání zboží prostřední osobou                  |
 
 ## <a name="configure-the-er-model-and-format-for-the-report"></a>Configure the ER model and format for the report
-You can use the **Electronic reporting** workspace to review or change the VAT statement configuration. Go to the **Configurations** page and select **VAT declaration model** from the list of models. This model is common for Austria, Czech Republic, Estonia, Finland, Latvia, and Lithuania and it aggregates tax data needed for VAT declaration. To review or change the VAT statement format for users in legal entities in the Czech Republic, select **VAT declaration (CZ)**, which is a child of **VAT declaration model** in the model tree. Select it and click **Designer** on the Action Pane to review or change the format. For more information, see [Electronic reporting.](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger)
+You can use the **Electronic reporting** workspace to review or change the VAT statement configuration. Go to the **Configurations** page and select **VAT declaration model** from the list of models. This model is common for Austria, Czech Republic, Estonia, Finland, Latvia, and Lithuania and it aggregates tax data needed for VAT declaration. To review or change the VAT statement format for users in legal entities in the Czech Republic, select **VAT declaration (CZ)**, which is a child of **VAT declaration model** in the model tree. Select it and click **Designer** on the Action Pane to review or change the format. For more information, see [Electronic reporting.](general-electronic-reporting.md)
 
 ## <a name="generate-the-vat-statement"></a>Generate the VAT statement
 To generate a VAT XML file, open the **Sales tax payments** page, select vouchers, and then click **Export VAT XML file**.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 
