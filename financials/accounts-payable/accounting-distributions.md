@@ -1,9 +1,9 @@
 ---
-title: Accounting distributions
+title: TEST THE HANDBACKAccounting distributions
 description: This article provides information about accounting distributions and describes the options that are available for processing them. Accounting distributions are used to allocate monetary amounts for a source document to specific ledger accounts.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-04 16 - 01 - 41
+ms.date: 04/04/2017
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
@@ -11,17 +11,17 @@ ms.technology:
 ms.search.form: AccountingDistribution
 audience: Application User
 ms.reviewer: annbe
-ms.search.scope: AX 7.0.0, Operations
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 17231
 ms.assetid: 9030355d-8e6e-408b-9e7d-7b346eaa652c
 ms.search.region: Global
 ms.author: peakerbl
-ms.dyn365.ops.intro: 01-02-2016
+ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
-ms.openlocfilehash: d7ac140f838bb4a0aa2511a348ca89205329af8b
-ms.lasthandoff: 02/22/2017
+ms.sourcegitcommit: 1b8d6c889c69c63159d73aee2068f2dc4417b351
+ms.openlocfilehash: e4b28d10fed568834c9ae48253f469e68e31a40f
+ms.lasthandoff: 04/14/2017
 
 
 ---
@@ -30,7 +30,12 @@ ms.lasthandoff: 02/22/2017
 
 This article provides information about accounting distributions and describes the options that are available for processing them. Accounting distributions are used to allocate monetary amounts for a source document to specific ledger accounts. 
 
-Accounting distributions are a program-wide capability that is used and extended by each source document, such as a purchase order, vendor invoice, expense report, and free text invoice. By default, a default accounting distribution is generated for each source document line and monetary amount, and is conditionally enabled for modification. **Note: ** Some documents also support header document monetary amounts, such as charges for orders and invoices. The generic accounting distribution capabilities provide the following options for processing accounting distributions:
+Accounting distributions are a program-wide capability that is used and extended by each source document, such as a purchase order, vendor invoice, expense report, and free text invoice. By default, a default accounting distribution is generated for each source document line and monetary amount, and is conditionally enabled for modification. 
+
+> [!Note] 
+> Some documents also support header document monetary amounts, such as charges for orders and invoices. 
+
+The generic accounting distribution capabilities provide the following options for processing accounting distributions:
 
 -   **Distribute amounts** – View and modify the accounting distributions for an individual document header or line and any child lines, such as taxes or charges.
     -   For the top monetary amount distributions (parent distributions), the main account and financial dimensions might be editable directly in the segmented entry control in the grid. The extended price is a typical example of such a parent distribution.
@@ -49,11 +54,5 @@ Accounting distributions are a program-wide capability that is used and extended
 -   ** View distributions** – View the accounting distributions for the all lines and monetary amounts on the document. You can't modify the accounting distributions from this view.
 
 
-<a name="see-also"></a>See also
---------
-
-[Accounting distributions and subledger journal entries for free text invoices](accounting-distributions-subledger-journal-entries-free-text-invoices.md)
-
-[Dimension defaulting in accounting distributions (blog)](http://blogs.msdn.com/b/ax_gfm_framework_team_blog/archive/2013/12/16/dimension-defaulting-in-accounting-distributions-blog-1-introduction.aspx)
-
+For more information, see [Accounting distributions and subledger journal entries for free text invoices](accounting-distributions-subledger-journal-entries-vendor-invoices.md).
 
