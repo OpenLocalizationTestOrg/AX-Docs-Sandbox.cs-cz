@@ -28,6 +28,9 @@ ms.lasthandoff: 04/14/2017
 
 # <a name="accounting-distributions"></a>Accounting distributions
 
+[!include[banner](../includes/banner.md)]
+
+
 This article provides information about accounting distributions and describes the options that are available for processing them. Accounting distributions are used to allocate monetary amounts for a source document to specific ledger accounts. 
 
 Accounting distributions are a program-wide capability that is used and extended by each source document, such as a purchase order, vendor invoice, expense report, and free text invoice. By default, a default accounting distribution is generated for each source document line and monetary amount, and is conditionally enabled for modification. 
@@ -55,4 +58,6 @@ The generic accounting distribution capabilities provide the following options f
 
 
 For more information, see [Accounting distributions and subledger journal entries for free text invoices](accounting-distributions-subledger-journal-entries-vendor-invoices.md).
+
+
 
