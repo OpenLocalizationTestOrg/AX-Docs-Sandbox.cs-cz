@@ -6,7 +6,7 @@ manager: AnnBe
 ms.date: 04/04/2017
 ms.topic: article
 ms.prod: 
-ms.service: Dynamics365Operations
+ms.service: dynamics-ax-applications
 ms.technology: 
 ms.search.form: AccountingDistribution
 audience: Application User
@@ -18,9 +18,10 @@ ms.search.region: Global
 ms.author: peakerbl
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 1b8d6c889c69c63159d73aee2068f2dc4417b351
 ms.openlocfilehash: e4b28d10fed568834c9ae48253f469e68e31a40f
+ms.contentlocale: cs-cz
 ms.lasthandoff: 04/14/2017
 
 

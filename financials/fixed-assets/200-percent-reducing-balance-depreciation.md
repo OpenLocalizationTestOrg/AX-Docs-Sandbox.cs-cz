@@ -6,7 +6,7 @@ manager: AnnBe
 ms.date: 04/04/2017
 ms.topic: article
 ms.prod: 
-ms.service: Dynamics365Operations
+ms.service: dynamics-ax-applications
 ms.technology: 
 ms.search.form: AssetDepreciationProfile
 audience: Application User
@@ -17,9 +17,10 @@ ms.search.region: Global
 ms.author: saraschi
 ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 1b8d6c889c69c63159d73aee2068f2dc4417b351
 ms.openlocfilehash: c2e728725f33c8ea12281b6992091ee20ab4148f
+ms.contentlocale: cs-cz
 ms.lasthandoff: 04/14/2017
 
 
